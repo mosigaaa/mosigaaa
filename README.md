@@ -21,6 +21,6 @@ AI and ML, which led me to expand my horizons beyond traditional engineering.
 
 ### Badges 
 
-<p align="center"><a href="http://www.github.com/mosigaaa"><img src="https://github-readme-stats.vercel.app/api?username=mosigaaa&show_icons=true&hide=stars,issues,&count_private=true&title_color=facc15&text_color=84cc16&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="mosigaaa's GitHub stats" /></a><p align="center">
+<a href="http://www.github.com/mosigaaa"><img src="https://github-readme-stats.vercel.app/api?username=mosigaaa&show_icons=true&hide=stars,issues,&count_private=true&title_color=facc15&text_color=84cc16&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="mosigaaa's GitHub stats" /></a>
 
-<p align="center"><a href="http://www.github.com/mosigaaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mosigaaa&stroke=84cc16&background=27272a&ring=facc15&fire=facc15&currStreakNum=84cc16&currStreakLabel=facc15&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a><p align="center">
+<a href="http://www.github.com/mosigaaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mosigaaa&stroke=84cc16&background=27272a&ring=facc15&fire=facc15&currStreakNum=84cc16&currStreakLabel=facc15&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
